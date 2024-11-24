@@ -25,4 +25,4 @@ This project implements a deep learning model for video classification using Con
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/video-classification.git
+   git clone https://github.com/nakhani/YouTube-channels-classification.git
